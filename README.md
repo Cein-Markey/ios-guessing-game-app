@@ -1,2 +1,2 @@
-# ios-fingers-app
+# os-guessinggame-app
 A simple guessing game app created using Swift2
